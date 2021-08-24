@@ -1,0 +1,57 @@
+[22-Aug-2021 20:21:13 UTC] PHP Warning:  file_get_contents(http://41.87.7.90:9997/api/Tokens?meterNumber=0120031147198&amp;startDate=2020-9-1&amp;endDate=2021-8-22): failed to open stream: Connection refused in /home/nrwb/public_html/prepaid/lib/Token.php on line 141
+[22-Aug-2021 20:21:13 UTC] PHP Notice:  Trying to get property 'statusCode' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 145
+[22-Aug-2021 20:21:13 UTC] PHP Notice:  Trying to get property 'TokenSlip' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:21:13 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:21:37 UTC] PHP Warning:  file_get_contents(http://41.87.7.90:9997/api/Tokens?meterNumber=0120031147198&amp;startDate=2010-8-28&amp;endDate=2021-8-22): failed to open stream: Connection refused in /home/nrwb/public_html/prepaid/lib/Token.php on line 141
+[22-Aug-2021 20:21:37 UTC] PHP Notice:  Trying to get property 'statusCode' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 145
+[22-Aug-2021 20:21:37 UTC] PHP Notice:  Trying to get property 'TokenSlip' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:21:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:21:53 UTC] PHP Warning:  file_get_contents(http://41.87.7.90:9997/api/Tokens?meterNumber=0120031147198&amp;startDate=2010-8-28&amp;endDate=2021-8-22): failed to open stream: Connection refused in /home/nrwb/public_html/prepaid/lib/Token.php on line 141
+[22-Aug-2021 20:21:53 UTC] PHP Notice:  Trying to get property 'statusCode' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 145
+[22-Aug-2021 20:21:53 UTC] PHP Notice:  Trying to get property 'TokenSlip' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:21:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:22:26 UTC] PHP Warning:  file_get_contents(http://41.87.7.90:9997/api/Tokens?meterNumber=0120181010113&amp;startDate=2010-8-28&amp;endDate=2021-8-22): failed to open stream: Connection refused in /home/nrwb/public_html/prepaid/lib/Token.php on line 141
+[22-Aug-2021 20:22:26 UTC] PHP Notice:  Trying to get property 'statusCode' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 145
+[22-Aug-2021 20:22:26 UTC] PHP Notice:  Trying to get property 'TokenSlip' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:22:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:35:26 UTC] PHP Warning:  file_get_contents(http://41.87.7.90:9997/api/Tokens?meterNumber=0120181010113&amp;startDate=2010-8-28&amp;endDate=2021-8-22): failed to open stream: Connection refused in /home/nrwb/public_html/prepaid/lib/Token.php on line 141
+[22-Aug-2021 20:35:26 UTC] PHP Notice:  Trying to get property 'statusCode' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 145
+[22-Aug-2021 20:35:26 UTC] PHP Notice:  Trying to get property 'TokenSlip' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:35:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:35:50 UTC] PHP Warning:  file_get_contents(http://41.87.7.90:9997/api/Tokens?meterNumber=0120181010113&amp;startDate=2015-1-1&amp;endDate=2021-8-22): failed to open stream: Connection refused in /home/nrwb/public_html/prepaid/lib/Token.php on line 141
+[22-Aug-2021 20:35:50 UTC] PHP Notice:  Trying to get property 'statusCode' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 145
+[22-Aug-2021 20:35:50 UTC] PHP Notice:  Trying to get property 'TokenSlip' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:35:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:36:33 UTC] PHP Warning:  file_get_contents(http://41.87.7.90:9997/api/Tokens?meterNumber=0120181010113&amp;startDate=2015-1-1&amp;endDate=2021-8-22): failed to open stream: Connection refused in /home/nrwb/public_html/prepaid/lib/Token.php on line 141
+[22-Aug-2021 20:36:33 UTC] PHP Notice:  Trying to get property 'statusCode' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 145
+[22-Aug-2021 20:36:33 UTC] PHP Notice:  Trying to get property 'TokenSlip' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:36:33 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:37:28 UTC] PHP Warning:  file_get_contents(http://41.87.7.90:9997/api/Tokens?meterNumber=0120181010113&amp;startDate=2015-1-1&amp;endDate=2021-8-22): failed to open stream: Connection refused in /home/nrwb/public_html/prepaid/lib/Token.php on line 141
+[22-Aug-2021 20:37:28 UTC] PHP Notice:  Trying to get property 'statusCode' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 145
+[22-Aug-2021 20:37:28 UTC] PHP Notice:  Trying to get property 'TokenSlip' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:37:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:56:27 UTC] PHP Warning:  file_get_contents(http://41.87.7.90:9997/api/Tokens?meterNumber=0120181010113&amp;startDate=2015-1-1&amp;endDate=2021-8-22): failed to open stream: Connection refused in /home/nrwb/public_html/prepaid/lib/Token.php on line 141
+[22-Aug-2021 20:56:27 UTC] PHP Notice:  Trying to get property 'statusCode' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 145
+[22-Aug-2021 20:56:27 UTC] PHP Notice:  Trying to get property 'TokenSlip' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:56:27 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:57:16 UTC] PHP Warning:  file_get_contents(http://41.87.7.90/api/Tokens?meterNumber=0120181010113&amp;startDate=2015-1-1&amp;endDate=2021-8-22): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/nrwb/public_html/prepaid/lib/Token.php on line 141
+[22-Aug-2021 20:57:16 UTC] PHP Notice:  Trying to get property 'statusCode' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 145
+[22-Aug-2021 20:57:16 UTC] PHP Notice:  Trying to get property 'TokenSlip' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:57:16 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:58:05 UTC] PHP Warning:  file_get_contents(http://41.87.7.90:9997/api/Tokens?meterNumber=0120181010113&amp;startDate=2015-1-1&amp;endDate=2021-8-22): failed to open stream: Connection refused in /home/nrwb/public_html/prepaid/lib/Token.php on line 141
+[22-Aug-2021 20:58:05 UTC] PHP Notice:  Trying to get property 'statusCode' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 145
+[22-Aug-2021 20:58:05 UTC] PHP Notice:  Trying to get property 'TokenSlip' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[22-Aug-2021 20:58:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[24-Aug-2021 18:21:27 UTC] PHP Warning:  file_get_contents(http://41.87.7.90:9997/api/Tokens?meterNumber=0120031147149&amp;startDate=2021-2-1&amp;endDate=2021-8-24): failed to open stream: Connection refused in /home/nrwb/public_html/prepaid/lib/Token.php on line 141
+[24-Aug-2021 18:21:27 UTC] PHP Notice:  Trying to get property 'statusCode' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 145
+[24-Aug-2021 18:21:27 UTC] PHP Notice:  Trying to get property 'TokenSlip' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[24-Aug-2021 18:21:27 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[24-Aug-2021 18:21:54 UTC] PHP Warning:  file_get_contents(http://41.87.7.90:9997/api/Tokens?meterNumber=0120031147149&amp;startDate=2021-2-1&amp;endDate=2021-8-24): failed to open stream: Connection refused in /home/nrwb/public_html/prepaid/lib/Token.php on line 141
+[24-Aug-2021 18:21:54 UTC] PHP Notice:  Trying to get property 'statusCode' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 145
+[24-Aug-2021 18:21:54 UTC] PHP Notice:  Trying to get property 'TokenSlip' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[24-Aug-2021 18:21:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[24-Aug-2021 18:25:55 UTC] PHP Warning:  file_get_contents(http://41.87.7.90:9997/api/Tokens?meterNumber=0120031147198&amp;startDate=2019-1-1&amp;endDate=2021-8-24): failed to open stream: Connection refused in /home/nrwb/public_html/prepaid/lib/Token.php on line 141
+[24-Aug-2021 18:25:55 UTC] PHP Notice:  Trying to get property 'statusCode' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 145
+[24-Aug-2021 18:25:55 UTC] PHP Notice:  Trying to get property 'TokenSlip' of non-object in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
+[24-Aug-2021 18:25:55 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/nrwb/public_html/prepaid/lib/Token.php on line 146
