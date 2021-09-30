@@ -160,9 +160,9 @@
                                 <tr class='bg-primary text-white text-uppercase'>
                                      <th style='border:1px solid green;width:20%'>Token</th>
                                      <th>Amount Paid</th>
-                                     <th>VAT</th>
+                                     
                                      <th>Units</th>
-                                     <th  style='border:1px solid orange'>New Debit</th>
+                                     
                                      <th>Date</th>
                                   </tr> 
                             </thead>
@@ -177,9 +177,9 @@
                             echo "<tr>";
                             echo "<td style='border:1px solid green;' width='15%'>$TokenSlip->token</td>";
                             echo "<td>$TokenSlip->totalPaid</td>";
-                            echo "<td>$TokenSlip->VAT</td>";
+                            
                             echo "<td>$TokenSlip->purchaseQuantity</td>";
-                            echo "<td style='border:1px solid orange'>$TokenSlip->newDebt</td>";
+                            
                             echo "<td><span id='hide'>$newDate</span>$TokenSlip->datePosted</td>";
                             echo "</tr>";
                         }
