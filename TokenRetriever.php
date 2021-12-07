@@ -6,6 +6,7 @@ $to = date_parse_from_format('d-m-Y', $_POST["to"]);
 
 $newFrom = $from["year"] . "-" . $from["month"] . "-" . $from["day"];
 $newTo = $to["year"] . "-" . $to["month"] . "-" . $to["day"];
+$newTo = date('Y-m-d', strtotime($newTo. ' + 1 days'))
 
 //display tokens by meter and dates range
 //this will be called each time user enters values 
